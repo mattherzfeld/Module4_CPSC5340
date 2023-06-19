@@ -3,7 +3,7 @@
 //  TaskTracker
 //  mrh0115@auburn.edu
 //  Created by user239896 on 6/17/23.
-//
+//  Version 2 with fixed GoogleService-info
 
 import SwiftUI
 import Firebase
